@@ -846,6 +846,7 @@ footer svg {
     height: 70px;
     line-height: 20px;
     font-size: 1.3rem;
+    margin-top: 2rem;
   }
 
   .section-headings {
@@ -859,6 +860,10 @@ footer svg {
   .projects {
     margin: 0 20px;
     padding: 80px 35px;
+  }
+
+  .projects-list {
+    gap: 10rem 0;
   }
 
   .projects .head-divider {
