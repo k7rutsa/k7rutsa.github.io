@@ -658,6 +658,14 @@ header img.photo {
   background-image: url(images/react-blog.png);
 }
 
+.projects-list .react-instagram .front {
+  background-image: url(images/react-blog.png);
+}
+
+.projects-list .react-movies .front {
+  background-image: url(images/react-blog.png);
+}
+
 .projects-list .movie .front {
   background-image: url(images/project2.jpg);
 }
