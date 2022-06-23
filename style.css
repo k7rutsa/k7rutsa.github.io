@@ -654,6 +654,10 @@ header img.photo {
   transform: rotateY(0);
 }
 
+.projects-list .react-ecommerce .front {
+  background-image: url(images/react-blog.png);
+}
+
 .projects-list .react-blog .front {
   background-image: url(images/react-blog.png);
 }
